@@ -1,5 +1,5 @@
 <h1 align="center">
-  Better Invite Starter
+  Better Invite Starter Template
 </h1>
 
 <p align="center">
@@ -24,7 +24,10 @@
 
 ---
 
-> ℹ️ Better Invite Starter code is also available on a separate [repository](https://github.com/better-invite/better-invite-starter/tree/main)
+> ℹ️ This template was automatically generated from the [Better Invite monorepo](https://github.com/better-invite/better-invite/tree/main/demo)  
+> ⚠️ Please open any issues or pull requests on the [Better Invite monorepo](https://github.com/better-invite/better-invite)  
+
+<img width="1542" height="853" alt="Use as template" src="https://github.com/user-attachments/assets/ad1bac20-675b-4df1-9829-449ca5be3578" />
 
 ## Installation
 
